@@ -30,6 +30,5 @@ on experience with:
  -Node JS, MySQL
 ### Languages:
  English
- Polish
  Russian
  
